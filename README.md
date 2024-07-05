@@ -6,3 +6,4 @@
 + [Kotlin 为什么使用协程？](https://github.com/cnwutianhao/android-interview/blob/main/document/Kotlin%20%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BD%BF%E7%94%A8%E5%8D%8F%E7%A8%8B.md)
 + [进行 IPC 通信时 Service 崩溃了，如何避免客户端崩溃](https://github.com/cnwutianhao/android-interview/blob/main/document/%E8%BF%9B%E8%A1%8C%20IPC%20%E9%80%9A%E4%BF%A1%E6%97%B6%20Service%20%E5%B4%A9%E6%BA%83%E4%BA%86%EF%BC%8C%E5%A6%82%E4%BD%95%E9%81%BF%E5%85%8D%E5%AE%A2%E6%88%B7%E7%AB%AF%E5%B4%A9%E6%BA%83.md)
 + [操作符 + 号和 StringBuilder 性能差异](https://github.com/cnwutianhao/android-interview/blob/main/document/%E6%93%8D%E4%BD%9C%E7%AC%A6%20%2B%20%E5%8F%B7%E5%92%8C%20StringBuilder%20%E6%80%A7%E8%83%BD%E5%B7%AE%E5%BC%82.md)
++ [说一下 String、StringBuffer 和 StringBuilder 的区别](https://github.com/cnwutianhao/android-interview/blob/main/document/%E8%AF%B4%E4%B8%80%E4%B8%8B%20String%E3%80%81StringBuffer%20%E5%92%8C%20StringBuilder%20%E7%9A%84%E5%8C%BA%E5%88%AB.md)
